@@ -4,6 +4,7 @@
 *  We also implemented Plan B, Emergency Control, to stop Dalle if Dalle runs too far.
 *  Dalle was implemented in 24 hours, I spent only one Hour for sleeping.
 *  Acknowledgement
+  * Team members: Neo, Raed and JC
   * Stewart Christie, Community Manager- Internet of Things Developer Program, Intel Corporation
   * Support from Desert Hacks 2017
 
